@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "photo": "./assets/images/1 (1).svg",
+      "title": "Graphic design",
+      "price": 34
+    },
+    {
+      "id": 3,
+      "photo": "./assets/images/3 (1).svg",
+      "title": "web design",
+      "price": 54
+    },
+    {
+      "id": 4,
+      "photo": "./assets/images/1 (1).svg",
+      "title": "Graphic",
+      "price": 59
+    },
+    {
+      "title": "Non molestias labori",
+      "price": "72",
+      "photo": "./assets/images/1 (1).svg",
+      "id": 5
+    }
+  ],
+  "favs": [
+    {
+      "id": 3,
+      "photo": "./assets/images/3 (1).svg",
+      "title": "web design",
+      "price": 54
+    }
+  ]
+}
